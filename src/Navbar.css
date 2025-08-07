@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem;
+  background-color:skyblue;
+  color: black;
+}
+.cart-btn {
+  background-color: orchid;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
